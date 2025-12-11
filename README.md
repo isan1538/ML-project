@@ -22,7 +22,7 @@ The goal is to classify each transaction as **fraudulent** or **legitimate** usi
 ├── Project.ipynb                # Full ML pipeline: preprocessing, modeling, evaluation
 ├── Project_PCA.ipynb            # PCA & t-SNE dimensionality reduction experiments
 ├── Final_ML_Report.pdf          # Full technical report and results
-├── data/                        # Optional dataset folder
+├── data/transactions.csv        # Optional dataset folder
 └── README.md                    # Project documentation
 ```
 
